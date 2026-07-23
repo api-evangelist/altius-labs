@@ -1,0 +1,20 @@
+# Altius Labs
+
+> Altius Labs builds customized, high-performance blockchain infrastructure for high-frequency onchain markets and trading applications. Founded by former Hudson River Trading engineers, it offers a VM-agnostic modular execution stack (Altius L1 settlement plus a high-performance execution coprocessor) that decouples execution from consensus and storage for parallel processing — targeting 10,000+ TPS and sub-millisecond latency while remaining EVM-compatible. Backed by Founders Fund, Pantera Capital, and Archetype.
+
+Note: As of this writing Altius Labs is an early-stage company and publishes no public REST API, OpenAPI specification, SDK, or JSON-RPC endpoint. This file is generated from the API Evangelist catalog entry and the provider's public site; it will be regenerated when a developer API surface is published.
+
+## Docs
+- [Documentation](https://docs.altiuslabs.xyz/): Technical overview of the Altius Stack — Altius L1, HPEC (high-performance execution coprocessor), and SSMT (Scalable State Merkle Trie).
+- [Learning Hub](https://altiuslabs.xyz/learn): Educational materials on parallel execution and modular blockchain infrastructure.
+- [Blog](https://altiuslabs.xyz/blog): Product updates and engineering insights.
+
+## Company
+- [Website](https://altiuslabs.xyz/): Company home — chain infrastructure for high-frequency onchain markets.
+- [GitHub Organization](https://github.com/Altius-Labs): Organization account (no public repositories at this time).
+
+## Tools (interactive, illustrative models — not APIs)
+- [Value-Retention Calculator](https://docs.altiuslabs.xyz/tools/value-retention/)
+- [Build-vs-Altius Calculator](https://docs.altiuslabs.xyz/tools/build-vs-altius/)
+- [Throughput & Capacity Estimator](https://docs.altiuslabs.xyz/tools/throughput-estimator/)
+- [EVM Compatibility Checker](https://docs.altiuslabs.xyz/tools/evm-compatibility/)
