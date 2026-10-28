@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Altius Labs is a company surfaced as a portfolio company of pantera-capital and added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.
+Altius Labs builds customized, high-performance blockchain infrastructure for high-frequency onchain markets and trading applications. Founded by former Hudson River Trading engineers, Altius offers a VM-agnostic modular execution stack that decouples execution from consensus and storage to deliver parallel transaction processing, targeting 10,000+ TPS and sub-millisecond latency while remaining EVM-compatible through a hybrid architecture (Altius L1 for settlement plus a high-performance execution coprocessor). Applications retain gas fees, sequencing revenue, and governance rather than ceding them to a base layer. The stack integrates with existing L1, L2, and app chains and supports multiple virtual machines (EVM, MoveVM, CosmWasm, SolanaVM). Altius Labs is backed by Founders Fund, Pantera Capital, Archetype, and others, and positions itself as institutional-grade dedicated chain infrastructure deployable in weeks rather than years.
 
-Backed by: pantera-capital — https://altiuslabs.xyz/
+**Areas:** Company · Cryptocurrency · Blockchain · Infrastructure · Execution Layer · Layer 1 · EVM · Parallel Execution · DeFi · Onchain Markets
+
+## Altius Labs on APIs.io
+
+Everything profiled for Altius Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/altius-labs/](https://apis.io/providers/altius-labs/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Altius Labs Domain Security](https://apis.io/security/altius-labs/altius-labs-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://altiuslabs.xyz/)
+- [Documentation](https://docs.altiuslabs.xyz/)
+- [Getting started](https://altiuslabs.xyz/learn)
+- [Blog](https://altiuslabs.xyz/blog)
+- [GitHub](https://github.com/Altius-Labs)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/altius-labs/](https://apis.io/providers/altius-labs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Altius Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/altius-labs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
